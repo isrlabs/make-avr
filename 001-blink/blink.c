@@ -1,3 +1,7 @@
+/*
+ * Blink an LED. This is used to vet the toolchain and USB programmer
+ * connection with a simple, immediately-obvious result.
+ */
 #include <avr/io.h>
 #include <util/delay.h>
 
